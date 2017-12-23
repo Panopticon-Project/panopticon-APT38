@@ -13,3 +13,5 @@ http://www.ibtimes.co.uk/what-hidden-cobra-us-warns-about-north-korean-hacker-gr
 https://techcrunch.com/2017/11/14/u-s-government-issues-alerts-about-malware-and-ip-addresses-linked-to-north-korean-cyber-attacks/
 
 https://www.us-cert.gov/ncas/alerts/TA17-318B
+
+http://www.securityweek.com/north-korean-hackers-targeting-individuals-report
