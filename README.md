@@ -15,3 +15,5 @@ https://techcrunch.com/2017/11/14/u-s-government-issues-alerts-about-malware-and
 https://www.us-cert.gov/ncas/alerts/TA17-318B
 
 http://www.securityweek.com/north-korean-hackers-targeting-individuals-report
+
+http://www.securityweek.com/north-korean-hackers-prep-attacks-against-cryptocurrency-exchanges-report
