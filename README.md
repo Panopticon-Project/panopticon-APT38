@@ -17,3 +17,5 @@ https://www.us-cert.gov/ncas/alerts/TA17-318B
 http://www.securityweek.com/north-korean-hackers-targeting-individuals-report
 
 http://www.securityweek.com/north-korean-hackers-prep-attacks-against-cryptocurrency-exchanges-report
+
+http://www.securityweek.com/north-korea-linked-lazarus-hackers-update-arsenal-hacking-tools
