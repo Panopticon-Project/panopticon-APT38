@@ -29,3 +29,5 @@ http://www.systemtek.co.uk/2018/02/north-korean-trojan-activity-bankshot-hardrai
 http://www.intezer.com/lazarus-group-targets-more-cryptocurrency-exchanges-and-fintech-companies/?utm_source=hs_email&utm_medium=email&utm_content=61724703&_hsenc=p2ANqtz-9SnDQN4G7q7NKq_rjc_wP1MNgOwbbDtTrMhlr5D81d4MFuSkQu8oQx3Xrtq5AWZZrR9BkOITfbpycS-hG24U-Cqiwo-A&_hsmi=61724703
 
 https://www.securityweek.com/north-korean-hackers-behind-online-casino-attack-report
+
+https://www.darkreading.com/threat-intelligence/north-korea-ramps-up-operation-ghostsecret-cyber-espionage-campaign/d/d-id/1331667
