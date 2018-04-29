@@ -31,3 +31,5 @@ http://www.intezer.com/lazarus-group-targets-more-cryptocurrency-exchanges-and-f
 https://www.securityweek.com/north-korean-hackers-behind-online-casino-attack-report
 
 https://www.darkreading.com/threat-intelligence/north-korea-ramps-up-operation-ghostsecret-cyber-espionage-campaign/d/d-id/1331667
+
+https://threatpost.com/thaicert-seizes-hidden-cobra-server-linked-to-ghostsecret-sony-attacks/131498/
