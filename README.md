@@ -35,3 +35,5 @@ https://www.darkreading.com/threat-intelligence/north-korea-ramps-up-operation-g
 https://threatpost.com/thaicert-seizes-hidden-cobra-server-linked-to-ghostsecret-sony-attacks/131498/
 
 https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-operation-ghostsecret-attack-seeks-to-steal-data-worldwide/?utm_source=hs_email&utm_medium=email&utm_content=62366014&_hsenc=p2ANqtz-_l35C77JG20NOlda-4DsLFLv93mvAONPMRJm6XGN5OMWsQUFMjUMEzDmAV328XkBB0Gk1XNWXZHh6NL_xvi2ewFm52xQ&_hsmi=62366014
+
+https://www.securityweek.com/north-korean-hackers-behind-online-casino-attack-report
