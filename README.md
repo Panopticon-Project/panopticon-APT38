@@ -5,7 +5,8 @@
 ## Lazarus Group
 
 ## Aliases
-* Hidden Cobra
+* [Hidden Cobra]() 
+* [The Guardians of Peace](https://techcrunch.com/2017/11/14/u-s-government-issues-alerts-about-malware-and-ip-addresses-linked-to-north-korean-cyber-attacks/)
 
 ## Attack Pattern
 * A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
@@ -80,9 +81,13 @@ According to US authorities, North Korean hackers used a malware dubbed DeltaCha
 Experts believe that the cyberespionage group has also posed as hacktivists groups, one in particular called the Guardians of Peace.
 North Korean hackers also made use of a DDoS malware tool called DeltaCharlie, which "is capable of downloading executables, changing its own configuration, updating its own binaries, terminating its own processes, and activating and terminating denial-of-service attacks".
 
-## Links:
-
 https://techcrunch.com/2017/11/14/u-s-government-issues-alerts-about-malware-and-ip-addresses-linked-to-north-korean-cyber-attacks/
+The technical alert from the FBI and Department of Homeland Security says a remote administration tool (RAT) called FALLCHILL has been deployed by Hidden Cobra since 2016 to target the aerospace, telecommunications and finance industries.
+FALLCHILL allows Hidden Cobra to issue commands to a victim’s server by dual proxies, which means it can potentially perform actions like retrieving information about all installed disks, accessing files, modifying file or directory timestamps and deleting evidence that it’s been on the infected server.
+The FBI says it “has high confidence” that those IP addresses are linked to attacks that infect computer systems with Volgmer, a Trojan malware variant used by Hidden Cobra to target the government, financial, auto and media industries.
+The U.S. government says Volgmer has been used to gain access to computer systems since at least 2013. Once Volgmer establishes a presence in a systems, it can gather system information, update service registry keys, download and upload files, execute commands and terminate processes and list directories, says the FBI and Department of Homeland Security.
+
+## Links:
 
 https://www.us-cert.gov/ncas/alerts/TA17-318B
 
@@ -176,3 +181,13 @@ https://www.ibtimes.co.uk/what-eternalrocks-wannacry-successor-new-doomsday-smb-
 https://www.ibtimes.co.uk/kim-jong-uns-hacker-army-may-step-cybercrime-offset-losses-incurred-chinas-coal-ban-1607711
 
 https://www.ibtimes.co.uk/north-korea-linked-global-wannacry-cyberattacks-by-shared-malware-code-1621731
+
+https://www.us-cert.gov/ncas/alerts/TA17-318A
+
+https://www.us-cert.gov/ncas/alerts/TA17-318B
+
+https://www.us-cert.gov/ncas/alerts/TA17-164A
+
+https://www.wired.com/story/north-korea-cyberattacks/
+
+https://www.nytimes.com/2017/10/15/world/asia/north-korea-hacking-cyber-sony.html
