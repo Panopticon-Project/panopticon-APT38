@@ -63,10 +63,20 @@ Another malware sample linked by BAE Systems to this attack is a loader named Bi
 Some pieces of malware discovered by BAE Systems are known to have been used by the Lazarus group, including in attacks aimed at financial organizations in Poland and Mexico. The malware includes commands and other messages written in Russia, which experts believe is likely a false flag designed to throw off investigators.
 It’s worth noting that the Hermes ransomware samples checked the infected machine’s language settings and stopped running if Russian, Ukrainian or Belarusian was detected. This is common for malware created by Russian and Ukrainian hackers who often avoid targeting their own country’s citizens. However, this could also be a false flag.
 Another piece of evidence linking the Taiwan bank attacks to Lazarus is the fact that money was transferred to accounts in Sri Lanka and Cambodia, similar to other operations attributed to the group.
+
+http://www.securityweek.com/north-korean-hackers-target-android-users-south
+The malware sample analyzed by McAfee, delivered as an APK file, has been designed to mimic a Korean bible app made available on Google Play by a developer named GODpeople. However, the malicious application did not make it onto the official app store and it’s unclear what method of distribution has been used. - android app
+“GodPeople is sympathetic to individuals from North Korea, helping to produce a movie about underground church groups in the North. Previous dealings with the Korean Information Security Agency on discoveries in the Korean peninsula have shown that religious groups are often the target of such activities in Korea,” explained McAfee’s Christiaan Beek and Raj Samani.
+McAfee said the malware, which has been around since at least March, delivers a backdoor as an executable and linkable format (ELF) file. The backdoor allows hackers to collect information about the infected device, download and upload files, and execute commands. The list of command and control (C&C) servers used by the malware includes IP addresses previously linked to the Lazarus group.
+Palo Alto Networks has not shared any information about the applications used to deliver the malware, but the company pointed out that the operation appears to be aimed at Samsung device users in South Korea.
+The firm’s analysis started with a PE file uploaded to VirusTotal. This file is designed to deliver ELF ARM files and APK files from an HTTP server. The APK that represents the final payload provides backdoor capabilities and allows its operator to spy on the targeted user by recording audio via the microphone, capturing images via the camera, uploading and downloading files, harvesting GPS information, reading contacts, collecting SMS and MMS messages, recording browsing history, and capturing Wi-Fi information.
+Palo Alto Networks has also found links between the malware and the Lazarus group, particularly to malware and infrastructure used in attacks on the SWIFT banking system and activities described in reports on Operation Blockbuster.
+This is not the first time North Korea has reportedly targeted mobile users in the South. Back in 2014, South Korea’s National Intelligence Service said more than 20,000 smartphones had been infected that year with a piece of malware traced back to North Korea.
+
+
 ## Links:
 
 
-http://www.securityweek.com/north-korean-hackers-target-android-users-south
 
 http://www.ibtimes.co.uk/what-hidden-cobra-us-warns-about-north-korean-hacker-groups-8-year-long-attack-spree-1626185
 
@@ -120,3 +130,31 @@ https://securingtomorrow.mcafee.com/mcafee-labs/taiwan-bank-heist-role-pseudo-ra
 https://www.securityweek.com/russian-words-used-decoy-lazarus-linked-bank-attacks
 
 https://www.securityweek.com/wannacry-highly-likely-work-north-korean-linked-hackers-symantec-says
+
+https://www.securityweek.com/us-warns-north-koreas-hidden-cobra-attacks
+
+https://www.securityweek.com/sony-hack-serious-national-security-matter-white-house
+
+https://www.securityweek.com/north-korea-possibly-behind-wannacry-ransomware-attacks
+
+https://www.securityweek.com/sony-hackers-linked-many-espionage-destruction-campaigns
+
+https://www.securityweek.com/south-korea-cyber-attack-tied-darkseoul-crew-symantec
+
+https://www.securityweek.com/data-wiping-attacks-south-korea-were-culmination-multi-year-espionage-campaign
+
+https://securingtomorrow.mcafee.com/mcafee-labs/android-malware-appears-linked-to-lazarus-cybercrime-group
+
+https://researchcenter.paloaltonetworks.com/2017/11/unit42-operation-blockbuster-goes-mobile/
+
+https://www.securityweek.com/us-suspects-north-korea-81-million-bangladesh-theft-report
+
+https://www.securityweek.com/south-korea-spy-agency-says-north-hacking-smartphones
+
+https://www.securityweek.com/us-government-shares-details-north-korea-cyber-attacks
+
+https://www.securityweek.com/north-korean-hackers-targeted-us-electric-firms-report
+
+https://www.securityweek.com/north-korea-accused-stealing-bitcoin-bolster-finances
+
+https://www.securityweek.com/north-koreas-elite-more-connected-previously-thought
