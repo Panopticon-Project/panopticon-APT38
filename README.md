@@ -73,12 +73,14 @@ The firm’s analysis started with a PE file uploaded to VirusTotal. This file i
 Palo Alto Networks has also found links between the malware and the Lazarus group, particularly to malware and infrastructure used in attacks on the SWIFT banking system and activities described in reports on Operation Blockbuster.
 This is not the first time North Korea has reportedly targeted mobile users in the South. Back in 2014, South Korea’s National Intelligence Service said more than 20,000 smartphones had been infected that year with a piece of malware traced back to North Korea.
 
+http://www.ibtimes.co.uk/what-hidden-cobra-us-warns-about-north-korean-hacker-groups-8-year-long-attack-spree-1626185
+According to US authorities, North Korean hackers used a malware dubbed DeltaCharlie to control a DDoS botnet, which in turn the hackers leveraged to conduct widespread attacks. The cyberespionage group has been operating since 2009 and has been typically targeting "systems running older, unsupported versions of Microsoft operating systems".
+"It is clear the purpose of building a DDoS botnet is to cripple a target," Mounir Hahad, senior director, Cyphort Labs told IBTimes UK. "Sometimes that's an end by itself, as when the electrical grid infrastructure or water treatment plants or air traffic control systems are targeted.
+"But more often than not, DDoS attacks are used to hide more nefarious activity taking place under the radar while the IT staff is busy fighting the overt DDoS attack. That's is the kind of scenario to worry about when the target of the DDoS attack is a government installation for example and those are typically espionage by nature."
+Experts believe that the cyberespionage group has also posed as hacktivists groups, one in particular called the Guardians of Peace.
+North Korean hackers also made use of a DDoS malware tool called DeltaCharlie, which "is capable of downloading executables, changing its own configuration, updating its own binaries, terminating its own processes, and activating and terminating denial-of-service attacks".
 
 ## Links:
-
-
-
-http://www.ibtimes.co.uk/what-hidden-cobra-us-warns-about-north-korean-hacker-groups-8-year-long-attack-spree-1626185
 
 https://techcrunch.com/2017/11/14/u-s-government-issues-alerts-about-malware-and-ip-addresses-linked-to-north-korean-cyber-attacks/
 
@@ -158,3 +160,19 @@ https://www.securityweek.com/north-korean-hackers-targeted-us-electric-firms-rep
 https://www.securityweek.com/north-korea-accused-stealing-bitcoin-bolster-finances
 
 https://www.securityweek.com/north-koreas-elite-more-connected-previously-thought
+
+https://www.ibtimes.co.uk/operation-blockbuster-lazarus-group-involved-sony-hack-hunted-by-intelligence-coalition-1545752
+
+https://www.ibtimes.co.uk/lazarus-north-korea-linked-sony-hackers-suspected-be-behind-cyberattacks-against-global-banks-1606194
+
+https://www.ibtimes.co.uk/north-korean-worldwide-hacking-rampage-steals-millions-casinos-banks-1615271
+
+https://www.ibtimes.co.uk/ibm-advises-users-destroy-storwize-usb-sticks-shipped-north-korea-liked-malware-1619511
+
+https://www.ibtimes.co.uk/un-hack-experts-monitoring-violations-sanctions-north-korea-hit-by-sustained-cyberattack-1622882
+
+https://www.ibtimes.co.uk/what-eternalrocks-wannacry-successor-new-doomsday-smb-worm-that-uses-7-nsa-hacking-tools-1622675
+
+https://www.ibtimes.co.uk/kim-jong-uns-hacker-army-may-step-cybercrime-offset-losses-incurred-chinas-coal-ban-1607711
+
+https://www.ibtimes.co.uk/north-korea-linked-global-wannacry-cyberattacks-by-shared-malware-code-1621731
