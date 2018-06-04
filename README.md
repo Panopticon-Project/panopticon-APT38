@@ -52,7 +52,17 @@ Since then, the three bitcoin wallets reported to be the depositories saw no act
 The second major finding is that the DPRK routes substantial traffic through internet nodes abroad. Of course, China is in this mix. But the surprise of the report is that Chinese networks only account for about 10% of traffic, with India being a more significant player and Indonesia, Mozambique, New Zealand, Kenya, and Nepal all playing a role as well. These patterns underscore the need for greater coordination on cyber issues as well as sanctions enforcement.
 
 http://www.securityweek.com/taiwan-bank-heist-linked-north-korean-hackers
-
+Hackers exploited the SWIFT global financial network to steal roughly $60 million from Taiwan’s Far Eastern International Bank. The money was transferred to several countries, but bank officials claimed they had managed to recover most of it. Two individuals were arrested earlier this month in Sri Lanka for their role in the operation.
+Researchers at BAE Systems have identified some of the tools used in the attack and found connections to the North Korean threat actor known as Lazarus. This group is also believed to be behind the 2014 attack on Sony Pictures and campaigns targeting several banks, including Bangladesh’s central bank.
+The attack on the Bangladesh bank, which resulted in the theft of $81 million, also involved the SWIFT system. Similar methods were also used to target several other banks, but SWIFT said some of the operations failed due to the new security measures implemented by the company.
+While it’s still unclear how attackers gained access to the systems of Far Eastern International Bank, an analysis of various malware samples apparently involved in the attack suggests that the hackers may have used a piece of ransomware as a distraction.
+The ransomware involved in the attack is known as Hermes. According to Bleeping Computer, the threat surfaced in February and its latest version has an encryption mechanism that makes it impossible to recover files without paying the ransom.
+However, researchers at McAfee discovered that the Hermes variant used in the attack on the Taiwanese bank did not display a ransom note, which led them to believe it may have been only a distraction.
+“Was the ransomware used to distract the real purpose of this attack? We strongly believe so,” McAfee researchers said. “Based on our sources, the ransomware attack started in the network when the unauthorized payments were being sent.”
+Another malware sample linked by BAE Systems to this attack is a loader named Bitsran, which spreads a malicious payload on the targeted network. This threat contained what appeared to be hardcoded credentials for Far Eastern International’s network, which suggests the threat group may have conducted previous reconnaissance.
+Some pieces of malware discovered by BAE Systems are known to have been used by the Lazarus group, including in attacks aimed at financial organizations in Poland and Mexico. The malware includes commands and other messages written in Russia, which experts believe is likely a false flag designed to throw off investigators.
+It’s worth noting that the Hermes ransomware samples checked the infected machine’s language settings and stopped running if Russian, Ukrainian or Belarusian was detected. This is common for malware created by Russian and Ukrainian hackers who often avoid targeting their own country’s citizens. However, this could also be a false flag.
+Another piece of evidence linking the Taiwan bank attacks to Lazarus is the fact that money was transferred to accounts in Sri Lanka and Cambodia, similar to other operations attributed to the group.
 ## Links:
 
 
@@ -98,3 +108,15 @@ https://www.washingtonpost.com/world/national-security/the-nsa-has-linked-the-wa
 https://www.cyberscoop.com/north-koreas-cyber-connections-to-china-and-india-come-under-scrutiny/
 
 https://www.recordedfuture.com/north-korea-internet-activity/
+
+https://www.securityweek.com/sri-lanka-arrests-two-men-over-taiwan-bank-hacking attributed to NK
+
+https://baesystemsai.blogspot.com/2017/10/taiwan-heist-lazarus-tools.html
+
+https://www.bleepingcomputer.com/news/security/hermes-ransomware-decrypted-in-live-video-by-emsisofts-fabian-wosar/ used by NK in the Swift attack of Far Eastern International Bank
+
+https://securingtomorrow.mcafee.com/mcafee-labs/taiwan-bank-heist-role-pseudo-ransomware/
+
+https://www.securityweek.com/russian-words-used-decoy-lazarus-linked-bank-attacks
+
+https://www.securityweek.com/wannacry-highly-likely-work-north-korean-linked-hackers-symantec-says
