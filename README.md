@@ -266,3 +266,5 @@ https://www.wired.com/story/north-korea-cyberattacks/
 https://www.nytimes.com/2017/10/15/world/asia/north-korea-hacking-cyber-sony.html
 
 https://www.us-cert.gov/HIDDEN-COBRA-North-Korean-Malicious-Cyber-Activity
+
+https://www.securityweek.com/north-korean-hackers-abuse-activex-recent-attacks
