@@ -272,3 +272,5 @@ https://www.securityweek.com/north-korean-hackers-abuse-activex-recent-attacks
 https://www.securityweek.com/dhs-fbi-share-details-north-koreas-typeframe-malware
 
 https://www.securityweek.com/north-korean-hackers-exploit-hwp-docs-recent-cyber-heists
+
+https://www.securityweek.com/north-korean-hackers-launch-new-activex-attacks
