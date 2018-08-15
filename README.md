@@ -274,3 +274,5 @@ https://www.securityweek.com/dhs-fbi-share-details-north-koreas-typeframe-malwar
 https://www.securityweek.com/north-korean-hackers-exploit-hwp-docs-recent-cyber-heists
 
 https://www.securityweek.com/north-korean-hackers-launch-new-activex-attacks
+
+https://www.securityweek.com/researchers-say-code-reuse-links-north-koreas-malware
