@@ -276,3 +276,5 @@ https://www.securityweek.com/north-korean-hackers-exploit-hwp-docs-recent-cyber-
 https://www.securityweek.com/north-korean-hackers-launch-new-activex-attacks
 
 https://www.securityweek.com/researchers-say-code-reuse-links-north-koreas-malware
+
+https://www.securityweek.com/organizations-hit-north-korean-linked-ryuk-ransomware
