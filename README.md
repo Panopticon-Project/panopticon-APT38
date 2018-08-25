@@ -8,6 +8,8 @@
 * [Hidden Cobra]() 
 * [The Guardians of Peace](https://techcrunch.com/2017/11/14/u-s-government-issues-alerts-about-malware-and-ip-addresses-linked-to-north-korean-cyber-attacks/)
 
+## Overview
+
 ## Attack Pattern
 * A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
 
@@ -162,6 +164,121 @@ DHS recommends that users and administrators use the following best practices as
     Avoid enabling macros from email attachments. If a user opens the attachment and enables macros, embedded code will execute the malware on the machine. For enterprises or organizations, it may be best to block email messages with attachments from suspicious sources. For information on safely handling email attachments, see Recognizing and Avoiding Email Scams. Follow safe practices when browsing the web. See Good Security Habits and Safeguarding Your Data for additional details.
     Do not follow unsolicited web links in emails. See Avoiding Social Engineering and Phishing Attacks for more information.
 
+https://www.proofpoint.com/sites/default/files/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug.pdf
+was cited in https://www.securityweek.com/north-korean-hackers-targeting-individuals-report dated December 21, 2017 
+
+he Lazarus Group has increasingly focused on financially motivated attacks and appears to be capitalizing on both the 
+increasing interest and skyrocketing prices for cryptocurrencies.We also discovered what appears to be the first publicly documented instance of a nation-state targeting a point-of-sale related framework for the theft of credit card data in a related set of attacks. We hypothesize that many of these previously reported
+operations targeting cryptocurrency organizations have actually been conducted by the espionage team of the Lazarus
+Group based on evidence we provide in the Attribution section. Further, we assess that until today, many of Lazarus
+Group’s traditional financially motivated team have remained largely in the shadows as they conduct these operations
+adding to their already impressive stockpile of various cryptocurrencies.
+
+![alt tag](https://user-images.githubusercontent.com/24201238/44615268-68159c00-a88a-11e8-89e7-fb56945ea804.png)
+Flow of PowerRatankba activity from victims to the Lazarus Group operators
+
+the different attack vectors and campaigns we have discovered that eventually lead to
+the delivery of PowerRatankba. In total we have discovered six different attack vectors:
+• A new Windows executable downloader dubbed PowerSpritz
+• A malicious Windows Shortcut (LNK) file
+• Several malicious Microsoft Compiled HTML Help (CHM) files using two different techniques
+• Multiple JavaScript (JS) downloaders
+• Two macro-based Microsoft Office documents
+• Two campaigns utilizing backdoored popular cryptocurrency applications hosted on internationalized domain (IDN)
+infrastructure to trick victims into thinking they were on a legitimate website
+
+The campaigns discussed in this research began on or around June 30th, 2017. According to our data those campaigns
+were highly targeted spearphishing attacks targeting at least one executive at a cryptocurrency organization to deliver a
+PowerRatankba.A variant. All other campaigns utilized PowerRatankba.B variants. We currently have no visibility into how
+the LNK, CHM, and JS campaigns were delivered to users, but given common Lazarus modus operandi, we can speculate
+that they may have been delivered through attachments or links in emails. We gained visibility again during the massive
+email campaigns utilizing BTG- and Electrum-themed applications to ultimately deliver PowerRatankba. The timeline below
+illustrates the exact dates of campaigns where we are aware of them. Where exact dates are unknown, we based estimates
+on first campaign observations and metadata (Fig. 2).
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44615304-1faaae00-a88b-11e8-8e2d-4a4acfeaae72.png)
+Timeline of campaigns ultimately related to PowerRatankba
+
+PowerSpritz is a Windows executable that hides both its legitimate payload and malicious PowerShell command using
+a non-standard implementation of the already rarely used Spritz encryption algorithm (see the Attribution section for
+additional analysis of the Spritz implementation). This malicious downloader has been observed being delivered via
+spearphishing attacks using the TinyCC link shortener service to redirect to likely attacker-controlled servers hosting the
+malicious PowerSpritz payload. In early July 2017 an individual on Twitter shared an attack they observed targeting them
+(Fig. 3) utilizing a fake Skype update lure to trick users into clicking on a link to hxxps://skype.2[.]vu/1. The TinyCC link
+redirected to a server that, at the time, would have likely returned a PowerSpritz payload: hxxp://201.211.183[.]215:8080/
+update.php?t=Skype&r=update
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44615661-a19ed500-a893-11e8-9872-c94a4275a6a0.png)
+https://twitter.com/LeoAW/status/881761293874610176
+
+We have since discovered three additional TinyCC URLs utilized to spread PowerSpritz: one with a Telegram theme (hxxp://
+telegramupdate.2[.]vu/5 -> hxxp://122.248.34[.]23/lndex.php?t=Telegram&r=1.1.9) and two more with Skype theme
+(hxxp://skypeupdate.2[.]vu/1 -> hxxp://122.248.34[.]23/lndex.php?t=SkypeSetup&r=mail_new and hxxp://skype.2[.]vu/k
+-> unknown). Some of the PowerSpritz payloads were previously hosted on Google Drive; however, we were unable to
+determine if that service was actually used to spread the payloads in-the-wild (ITW).
+PowerSpritz decrypts a legitimate Skype or Telegram installer using a custom Spritz implementation with the key “Znxkai@
+if8qa9w9489”. PowerSpritz then writes the legitimate installer to disk in the directory returned by GetTempPathA either as
+a hardcoded filename such as SkypeSetup.exe or, in some versions, as the filename returned by GetTempFileNameA.
+The installer is then executed to trick the potential victim into thinking they downloaded a legitimate, working application
+installer or update. Finally, Spritz uses the same key to decrypt a PowerShell command that downloads the first stage of
+PowerRatankba (Fig. 4). All three PowerSpritz samples we discovered executed the identical PowerShell command.
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44615704-d2333e80-a894-11e8-83e9-a333ce7ba5d0.png)
+Script output showing PowerSpritz PowerShell encoded and decoded command
+
+As shown in the above decoded script (Fig. 4), PowerSpritz attempts to retrieve a payload from hxxp://dogecoin.
+deaftone[.]com:8080/mainls.cs that is expected to be a Base64-encoded PowerShell script. After decoding mainls.cs,
+a PowerRatankba.A implant is revealed (Fig. 5) with hxxp://vietcasino.linkpc[.]net:8080/search.jsp as its command and
+control (C&C).
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44615721-3b1ab680-a895-11e8-8768-213c21366287.png)
+PowerSpritz retrieving Base64-encoded PowerRatankba
+
+A LNK masquerading as a PDF document was discovered on an antivirus
+scanning service. The malicious “Scanned Document Part 1.pdf.lnk”
+LNK file, along with a corrupted PDF named “Scanned Document Part
+2.pdf,” were compressed in a ZIP file named “Scanned Documents.zip”
+(Fig. 6). It is unclear if the PDF document was tampered with intentionally
+to increase the chances a target would open the malicious LNK or if the
+actor(s) unintentionally used a corrupted document. We currently are not
+aware of how the LNK or compressed ZIP files were utilized ITW.
+The malicious LNK uses a [known AppLocker bypass](https://www.theregister.co.uk/2016/04/22/applocker_bypass/) to retrieve its
+payload from a TinyURL shortener link hxxp://tinyurl[.]com/y9jbk8cg (Fig.
+7). This shortener previously redirected to hxxp://201.211.183[.]215:8080/
+pdfviewer.php?o=0&t=report&m=0 . At the time of analysis the C&C
+server was no longer returning payloads. However, the same IP was
+used in the PowerSpritz campaigns. Based on the same C&C usage
+and similar URI structure, we assess with low confidence that the LNK
+campaign would have delivered PowerRatankba via PowerSpritz.
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44615765-3d314500-a896-11e8-9c3f-c660328e4794.png)
+Malicious LNK AppLocker bypass to retrieve payload
+
+Several malicious CHM files were uploaded to a multi antivirus scanning service in October, November, and December. We
+inspected the compressed ZIP metadata to better understand the likely chronological order in which the CHMs were used.
+Unfortunately we have been unable to determine how these infection attempts were delivered to victims ITW. The themes of
+the malicious CHMs include:
+• A confusing, poorly written request for assistance with creating a website with possible romantic undertones (Fig. 8-1)
+• Documentation on a blockchain technology called ALCHAIN from Orient Exchange Co. (Fig. 8-2)
+• A request for assistance in developing an initial coin offering (ICO) platform (Fig. 8-3)
+• White paper on the Falcon Coin ICO (Fig. 8-4)
+• A request for applications to develop a cryptocurrency exchange platform (Fig. 8-5)
+• A request for assistance in creating an email marketing tool (Fig. 8-6)
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44615801-de200000-a896-11e8-9f6d-b92d6247b556.png)
+CHM lures utilized in attempts to deliver PowerRatankba
+
+All of the CHM files use a [well-known technique](https://github.com/samratashok/nishang/blob/master/Client/Out-CHM.ps1) to create a shortcut object capable of executing malicious code and then
+causing that shortcut object to be automatically clicked via the “x.Click();” function. Two different methods were used
+across the CHMs to retrieve the malicious payload.
+The first method uses a VBScript Execute command and BITSAdmin tool to download a malicious VBScript file (Fig.
+9). The payload is downloaded (Fig. 10) from hxxp://www.businesshop[.]net/hide.gif and saved to C:\windows\temp\
+PowerOpt.vbs. Once the downloaded VBScript (Fig. 10) is executed, it will attempt to download PowerRatankba from
+hxxp://158.69.57[.]135/theme.gif, saving the expected PowerShell script to C:\Users\Public\Pictures\opt.ps1.
+
+page 9
+
+
 ## Links:
 
 http://www.securityweek.com/north-korean-hackers-targeting-individuals-report
@@ -287,3 +404,13 @@ https://www.securityweek.com/north-korea-linked-hacker-group-poses-serious-threa
 https://www.securityweek.com/north-korean-hackers-targeting-crypto-currency-exchanges-fireeye
 https://www.securityweek.com/search/google/Gh0st?query=Gh0st&cx=016540353864684098383%3A6mcx-eenlzi&cof=FORID%3A11&sitesearch=&safe=off
 https://www.securityweek.com/north-koreas-new-front-cyberheists
+
+https://www.fireeye.com/blog/threat-research/2017/09/north-korea-interested-in-bitcoin.html
+
+https://www.bbc.com/news/world-asia-42378638
+
+https://www.symantec.com/connect/blogs/attackers-target-dozens-global-banks-new-malware-0 - ratankba attributed
+
+https://www.symantec.com/security-center/writeup/2017-020908-1134-99
+
+https://blog.trendmicro.com/trendlabs-security-intelligence/ratankba-watering-holes-against-enterprises/
