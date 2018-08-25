@@ -278,3 +278,7 @@ https://www.securityweek.com/north-korean-hackers-launch-new-activex-attacks
 https://www.securityweek.com/researchers-say-code-reuse-links-north-koreas-malware
 
 https://www.securityweek.com/organizations-hit-north-korean-linked-ryuk-ransomware
+
+https://www.securityweek.com/sony-hack-serious-national-security-matter-white-house
+https://www.securityweek.com/us-suspects-north-korea-81-million-bangladesh-theft-report
+https://www.securityweek.com/australia-canada-others-blame-north-korea-wannacry-attack
