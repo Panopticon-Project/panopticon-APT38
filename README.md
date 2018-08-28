@@ -276,8 +276,129 @@ The first method uses a VBScript Execute command and BITSAdmin tool to download 
 PowerOpt.vbs. Once the downloaded VBScript (Fig. 10) is executed, it will attempt to download PowerRatankba from
 hxxp://158.69.57[.]135/theme.gif, saving the expected PowerShell script to C:\Users\Public\Pictures\opt.ps1.
 
-page 9
+![alt_tag](https://user-images.githubusercontent.com/24201238/44711227-f6478780-ab01-11e8-96ef-c7be877af46f.png)
+Malicious code embedded in CHM to download a VBScript PowerRatankba downloader
 
+![alt_tag](https://user-images.githubusercontent.com/24201238/44711422-72da6600-ab02-11e8-97e2-e118d8777a45.png)
+BITSAdmin retrieving malicious payload over HTTP
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44711865-7cb09900-ab03-11e8-9164-1945ebe63871.png)
+PowerShell utilized in CHM to retrieve PowerRatankba downloader VBS
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44712258-7e2e9100-ab04-11e8-9c7e-782d2fbbf845.png)
+Leftover code in 5_6283065828631904327.chm
+
+As a final note on the CHM campaigns, the following three samples contain an email address of either robert_mobile@
+gmail[.]com or robert_mobile@mail[.]com, which we assess with some confidence are related to the threat actor:
+• 772b9b873100375c9696d87724f8efa2c8c1484853d40b52c6dc6f7759f5db01
+• 6cb1e9850dd853880bbaf68ea23243bac9c430df576fa1e679d7f26d56785984
+• 9d10911a7bbf26f58b5e39342540761885422b878617f864bfdb16195b7cd0f5
+
+Throughout November several compressed ZIP files containing a JavaScript (JS) downloader were observed being hosted
+on likely attacker-controlled servers. We are not currently aware if or how these files were delivered to potential victims. The
+naming of the files and the decoy PDF documents they retrieve provide some clues about the nature of the lures. Themes
+include the cryptocurrency exchanges Coinbase and Bithumb, the Falcon Coin ICO, and a list of Bitcoin transactions.
+Each JavaScript downloader is obfuscated (Fig. 13) using JavaScript Obfuscator (see Attribution section for additional
+analysis) or a similar tool. After de-obfuscating (Fig. 14), the logic of the malicious downloader is very straightforward. First,
+an obfuscated PowerRatankba.B PowerShell script is downloaded from a fake image URL such as: hxxp://51.255.219[.]82/
+theme.gif. Next, the PowerShell script is saved to C:\Users\Public\Pictures\opt.ps1 and then executed.
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44713708-d1561300-ab07-11e8-9ef2-8b80c0a28b2a.png)
+Obfuscated falconcoin.js
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44714006-65c07580-ab08-11e8-948a-8f688e4992cc.png)
+Deobfuscated falconcoin.js revealing PowerRatankba and decoy PDF URLs
+
+The last step in execution is to retrieve the decoy PDF from hxxp://51.255.219[.]82/files/download/falconcoin.pdf and open
+it using rundll32.exe and shell32.dll,OpenAs_RunDLL (Fig. 15-1). Samples using Coinbase and Bithumb themes also
+downloaded PDF decoys (Fig. 15-2,15-3). Additionally we discovered that the content from the Coinbase decoy has been
+used in Lazarus group-attributed espionage campaigns (see Attribution for more details).
+
+![image](https://user-images.githubusercontent.com/24201238/44714195-ccde2a00-ab08-11e8-9216-a88cc2a3f3ca.png)
+Decoys downloaded or sent along with PowerRatankba JavaScript downloaders
+
+VBScript Macro Microsoft Office Documents
+Two VBScript macro-laden Microsoft Office documents have been observed associated with this activity: one Word
+document and one Excel spreadsheet. The Word document (b3235a703026b2077ccfa20b3dabd82d65c6b5645f7f1
+5e7bbad1ce8173c7960) uses an Internal Revenue Service (IRS) theme and was sent as an attachment named “report
+phishing.doc”. The spearphishing email was sent from an @mail.com address with the subject of “Phishing Warnning”[sic].
+Ironically, the sender email address was spoofed as phishing@irs.gov (Fig. 16) while the content of the lure (Fig. 17) was
+likely copied from an official IRS webpage.
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44715050-f1d39c80-ab0a-11e8-8e6a-43f7d9c0b538.png)
+Spearphishing email spoofed sender and subject
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44715064-f9934100-ab0a-11e8-83f3-f26c8c6fd9f6.png)
+IRS themed Word document PowerRatankba downloader
+
+The IRS-themed malicious document uses a macro
+to download a PowerRatankba VBScript from
+hxxp://198.100.157[.]239/hide.gif (Fig. 18), save it to C:\
+Users\Public\Pictures\opt.vbs, and execute it with wscript.
+exe. It in turn downloads the PowerRatankba.B from
+hxxp://198.100.157[.]239/theme.gif, saving the downloaded
+payload to C:\Users\Public\Pictures\opt.ps1, and finally
+executing it with powershell.exe.
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44715561-3a3f8a00-ab0c-11e8-8bb8-a973eb6a7c4e.png)
+IRS-themed malicious document macro
+
+The second malicious Office document we discovered is an Excel spreadsheet named bithumb.xls. It uses a Bithumb lure
+(Fig. 19) and includes stolen branding. The spreadsheet was found compressed in a ZIP file named Bithumb.zip along with
+a decoy PDF document named “About Bithumb.pdf” (Fig. 20).
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44715643-69ee9200-ab0c-11e8-84b6-2a6f0194f12b.png)
+Malicious Bithumb Excel spreadsheet with English option shown, with stolen branding
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44715664-7541bd80-ab0c-11e8-9a16-380f0cecfb65.png)
+“About Bithumb.pdf decoy” document inside Bithumb.zip archive, with stolen branding
+
+The Excel spreadsheet contains a macro with an embedded Base64-encoded PowerRatankba VBScript downloader
+(rather than retrieving it from a C&C using HTTP (Fig. 21)). The embedded VBScript is first dropped to disk at c:\Users\
+Public\Documents\Proxy.vbs and then executed using wscript.exe. The dropped VBScript file is configured to download
+PowerRatankba from hxxp://www.energydonate[.]com/images/character.gif while saving the downloaded payload to C:\
+Users\Public\Documents\ProxyAutoUpdate.ps1.
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44715747-a28e6b80-ab0c-11e8-8b74-c85716755f28.png)
+Base64 encoded PowerRatankba downloader embedded in bithumb.xls
+
+Most recently, several large email phishing campaigns attempted to trick unsuspecting victims into visiting fake webpages
+to download or update cryptocurrency applications. The copycat websites were mirror images of legitimate websites with
+software download links pointing to the correct installers hosted on the legitimate websites. The only exception was the
+link to download the Windows version of the application, which was hosted on the copycat websites. These PyInstaller
+executables were backdoored with a few lines of Python code added to download the PowerRatankba implant.
+The first campaign that utilized this technique used a Bitcoin Gold (BTG) theme to trick the targets into visiting an
+internationalized domain name (IDN) website (Fig. 22). An email was sent to targets offering a BTG wallet application
+along with a link to the malicious website: hxxps://xn--bitcoingld-lcb[.]org/. However, web browsers and email clients would
+display the link as follows: hxxps://bitcoingöld[.]org/. Emails in this BTG campaign were sent between approximately
+November 10-16, 2017. Some of the known sender emails include but are not limited to: info@xn--bitcoingod-8yb[.]com,
+info@xn--bitcoigold-o1b[.]com, and tech@xn--bitcoingld-lcb[.]org. Campaigns using IDN can be difficult to recognize as
+malicious because they are typically very similar to the mimicked legitimate domains except for a single character (Fig. 23).
+(see IOC section for more likely related IDNs)
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44716060-71fb0180-ab0d-11e8-994e-44b026143172.png)
+IDN email address is emphasized in a red box.
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44716082-7e7f5a00-ab0d-11e8-8779-117d1cba7054.png)
+Excerpt from phishing email showing the IDN link with red arrow pointing to internationalized character
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44716107-89d28580-ab0d-11e8-8dad-8f4ea9df025e.png)
+Figure 24: Malicious BTG website hosting PowerRatankba downloader. Credit: RiskIQ
+
+![alt_tag](https://user-images.githubusercontent.com/24201238/44716131-93f48400-ab0d-11e8-881a-f58be04773bf.png)
+Legitimate BTG website showing difference between legitimate and malicious websites (note: this screenshot was not taken on the same day as the screenshot of the malicious website)
+
+Many thanks to Yonathan Klijnsma (@ydklijnsma) of RiskIQ,
+whose assistance allowed us to analyze a historical scrape of
+one of the web pages hosting the malware at xn--bitcoingldlcb[.]
+org. In the scrape, an additional text and a button were
+inserted in place of the BTG logo. The button used JavaScript to
+download a payload from hxxps://bitcoingöld[.]org/bitcoingold.
+exe (IDN: xn--bitcoingld-lcb[.]org) (Fig. 24). Additional
+differences are likely the result of changes to the legitimate
+website (Fig. 25) since the malicious campaign.
+
+page 17
 
 ## Links:
 
