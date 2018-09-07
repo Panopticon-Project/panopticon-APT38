@@ -539,3 +539,5 @@ https://blog.trendmicro.com/trendlabs-security-intelligence/ratankba-watering-ho
 https://www.securityweek.com/north-korean-hackers-hit-cryptocurrency-exchange-macos-malware
 
 https://www.securityweek.com/north-korea-linked-hackers-stole-135-million-cosmos-bank-report
+
+https://www.securityweek.com/us-charges-north-korean-over-lazarus-group-hacks
