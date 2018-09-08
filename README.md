@@ -543,3 +543,5 @@ https://www.securityweek.com/north-korea-linked-hackers-stole-135-million-cosmos
 https://www.securityweek.com/us-charges-north-korean-over-lazarus-group-hacks
 
 https://www.justice.gov/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and
+
+https://www.securityweek.com/opsec-mistakes-allowed-us-link-north-korean-man-hacks
