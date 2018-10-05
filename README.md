@@ -549,3 +549,5 @@ https://www.securityweek.com/opsec-mistakes-allowed-us-link-north-korean-man-hac
 https://www.securityweek.com/us-links-north-korean-government-atm-hacks
 
 https://www.securityweek.com/nkorea-said-have-stolen-fortune-online-bank-heists
+
+https://www.securityweek.com/north-korean-attacks-banks-attributed-apt38-group
