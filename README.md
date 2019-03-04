@@ -557,3 +557,5 @@ https://www.securityweek.com/north-korean-hackers-hit-latin-american-banks
 https://www.securityweek.com/researchers-link-chilean-interbank-attack-north-korea
 
 https://www.securityweek.com/north-koreas-lazarus-hackers-found-targeting-russian-entities
+
+https://www.bleepingcomputer.com/news/security/op-sharpshooter-connected-to-north-koreas-lazarus-group/
