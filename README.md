@@ -561,3 +561,5 @@ https://www.securityweek.com/north-koreas-lazarus-hackers-found-targeting-russia
 https://www.bleepingcomputer.com/news/security/op-sharpshooter-connected-to-north-koreas-lazarus-group/
 
 https://securelist.com/cryptocurrency-businesses-still-being-targeted-by-lazarus/90019/
+
+https://www.securityweek.com/north-korea-linked-hackers-target-macos-users
