@@ -559,3 +559,5 @@ https://www.securityweek.com/researchers-link-chilean-interbank-attack-north-kor
 https://www.securityweek.com/north-koreas-lazarus-hackers-found-targeting-russian-entities
 
 https://www.bleepingcomputer.com/news/security/op-sharpshooter-connected-to-north-koreas-lazarus-group/
+
+https://securelist.com/cryptocurrency-businesses-still-being-targeted-by-lazarus/90019/
