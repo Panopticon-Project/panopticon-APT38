@@ -569,3 +569,5 @@ https://www.securityweek.com/us-attributes-new-trojan-north-korean-hackers
 https://www.securityweek.com/us-government-details-electricfish-malware-used-north-korea
 
 https://www.cyberscoop.com/lazarus-group-hacking-malware-cyber-command/
+
+https://www.itsecuritynews.info/u-s-cyber-command-adds-north-korean-malware-samples-to-virustotal/
