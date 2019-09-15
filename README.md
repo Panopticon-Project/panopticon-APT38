@@ -571,3 +571,5 @@ https://www.securityweek.com/us-government-details-electricfish-malware-used-nor
 https://www.cyberscoop.com/lazarus-group-hacking-malware-cyber-command/
 
 https://www.itsecuritynews.info/u-s-cyber-command-adds-north-korean-malware-samples-to-virustotal/
+
+https://www.reuters.com/article/us-northkorea-usa-sanctions/u-s-imposes-sanctions-on-north-korean-hacking-groups-blamed-for-global-attacks-idUSKCN1VY1RB
