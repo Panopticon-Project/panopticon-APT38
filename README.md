@@ -573,3 +573,7 @@ https://www.cyberscoop.com/lazarus-group-hacking-malware-cyber-command/
 https://www.itsecuritynews.info/u-s-cyber-command-adds-north-korean-malware-samples-to-virustotal/
 
 https://www.reuters.com/article/us-northkorea-usa-sanctions/u-s-imposes-sanctions-on-north-korean-hacking-groups-blamed-for-global-attacks-idUSKCN1VY1RB
+
+https://brica.de/alerts/alert/public/1278013/dtrack-rat-is-behind-virulent-atm-espionage-campaign/
+
+https://www.databreachtoday.com/kaspersky-dual-use-dtrack-malware-linked-to-atm-thefts-a-13144
