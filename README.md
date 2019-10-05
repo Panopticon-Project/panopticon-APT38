@@ -577,3 +577,5 @@ https://www.reuters.com/article/us-northkorea-usa-sanctions/u-s-imposes-sanction
 https://brica.de/alerts/alert/public/1278013/dtrack-rat-is-behind-virulent-atm-espionage-campaign/
 
 https://www.databreachtoday.com/kaspersky-dual-use-dtrack-malware-linked-to-atm-thefts-a-13144
+
+https://securelist.com/my-name-is-dtrack/93338/?utm_source=newsletter&utm_medium=Email&utm_campaign=sl%20weekly%20digest
