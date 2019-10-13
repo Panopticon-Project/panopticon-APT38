@@ -579,3 +579,5 @@ https://brica.de/alerts/alert/public/1278013/dtrack-rat-is-behind-virulent-atm-e
 https://www.databreachtoday.com/kaspersky-dual-use-dtrack-malware-linked-to-atm-thefts-a-13144
 
 https://securelist.com/my-name-is-dtrack/93338/?utm_source=newsletter&utm_medium=Email&utm_campaign=sl%20weekly%20digest
+
+https://www.patreon.com/posts/30715524
