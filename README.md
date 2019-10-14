@@ -581,3 +581,5 @@ https://www.databreachtoday.com/kaspersky-dual-use-dtrack-malware-linked-to-atm-
 https://securelist.com/my-name-is-dtrack/93338/?utm_source=newsletter&utm_medium=Email&utm_campaign=sl%20weekly%20digest
 
 https://www.patreon.com/posts/30715524
+
+https://thenextweb.com/hardfork/2019/10/14/north-korea-hacking-group-lazarus-old-cryptocurrency-scam-control-mac/
