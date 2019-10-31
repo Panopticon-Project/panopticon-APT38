@@ -587,3 +587,5 @@ https://thenextweb.com/hardfork/2019/10/14/north-korea-hacking-group-lazarus-old
 https://www.itsecuritynews.info/experts-attribute-nukesped-rat-to-north-korea-linked-hackers
 
 https://www.scmagazine.com/home/security-news/fake-company-pushes-phony-cryptocurrency-app-to-spread-mac-malware/
+
+https://www.digitalmunition.me/confirmed-north-korean-malware-found-on-indian-nuclear-plants-network/
