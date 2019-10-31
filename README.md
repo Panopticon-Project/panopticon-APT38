@@ -584,4 +584,6 @@ https://www.patreon.com/posts/30715524
 
 https://thenextweb.com/hardfork/2019/10/14/north-korea-hacking-group-lazarus-old-cryptocurrency-scam-control-mac/
 
-https://www.itsecuritynews.info/experts-attribute-nukesped-rat-to-north-korea-linked-hackers/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+ItSecurityNewsAggregated+%28IT+Security+News%29
+https://www.itsecuritynews.info/experts-attribute-nukesped-rat-to-north-korea-linked-hackers
+
+https://www.scmagazine.com/home/security-news/fake-company-pushes-phony-cryptocurrency-app-to-spread-mac-malware/
