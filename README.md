@@ -589,3 +589,7 @@ https://www.itsecuritynews.info/experts-attribute-nukesped-rat-to-north-korea-li
 https://www.scmagazine.com/home/security-news/fake-company-pushes-phony-cryptocurrency-app-to-spread-mac-malware/
 
 https://www.digitalmunition.me/confirmed-north-korean-malware-found-on-indian-nuclear-plants-network/
+
+https://www.us-cert.gov/HIDDEN-COBRA-North-Korean-Malicious-Cyber-Activity
+
+https://www.us-cert.gov/ncas/analysis-reports/ar19-304a
