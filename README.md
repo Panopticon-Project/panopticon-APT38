@@ -593,3 +593,5 @@ https://www.digitalmunition.me/confirmed-north-korean-malware-found-on-indian-nu
 https://www.us-cert.gov/HIDDEN-COBRA-North-Korean-Malicious-Cyber-Activity
 
 https://www.us-cert.gov/ncas/analysis-reports/ar19-304a
+
+https://hotforsecurity.bitdefender.com/blog/lazarus-group-may-have-hacked-indian-nuclear-power-plant-21716.html
