@@ -597,3 +597,5 @@ https://www.us-cert.gov/ncas/analysis-reports/ar19-304a
 https://hotforsecurity.bitdefender.com/blog/lazarus-group-may-have-hacked-indian-nuclear-power-plant-21716.html
 
 https://www.cyberscoop.com/north-korea-malware-cyber-command-virus-total-apt38/
+
+https://blog.trendmicro.com/trendlabs-security-intelligence/mac-backdoor-linked-to-lazarus-targets-korean-users/
