@@ -599,3 +599,5 @@ https://hotforsecurity.bitdefender.com/blog/lazarus-group-may-have-hacked-indian
 https://www.cyberscoop.com/north-korea-malware-cyber-command-virus-total-apt38/
 
 https://blog.trendmicro.com/trendlabs-security-intelligence/mac-backdoor-linked-to-lazarus-targets-korean-users/
+
+https://www.hindustantimes.com/analysis/decoding-motives-behind-the-kudankulam-intrusion/story-c3odQAUqOT1nDgjOMFQRPK.html
