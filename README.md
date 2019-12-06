@@ -601,3 +601,5 @@ https://www.cyberscoop.com/north-korea-malware-cyber-command-virus-total-apt38/
 https://blog.trendmicro.com/trendlabs-security-intelligence/mac-backdoor-linked-to-lazarus-targets-korean-users/
 
 https://www.hindustantimes.com/analysis/decoding-motives-behind-the-kudankulam-intrusion/story-c3odQAUqOT1nDgjOMFQRPK.html
+
+https://thenextweb.com/hardfork/2019/12/04/cryptocurrency-trading-platform-macos-malware-lazarus-north-korea/
