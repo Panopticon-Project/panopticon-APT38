@@ -607,3 +607,5 @@ https://thenextweb.com/hardfork/2019/12/04/cryptocurrency-trading-platform-macos
 https://www.digitalmunition.me/lazarus-hacking-group-strikes-again-with-fileless-malware/
 
 https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-trickbot-to-infect-high-end-victims/
+
+https://cyware.com/news/lazarus-apt-group-linked-to-new-dacls-malware-that-targets-linux-systems-6abd448d
