@@ -609,3 +609,5 @@ https://www.digitalmunition.me/lazarus-hacking-group-strikes-again-with-fileless
 https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-trickbot-to-infect-high-end-victims/
 
 https://cyware.com/news/lazarus-apt-group-linked-to-new-dacls-malware-that-targets-linux-systems-6abd448d
+
+https://www.globalsecuritymag.com/Lazarus-enhances-capabilities-in,20200108,94395.html
