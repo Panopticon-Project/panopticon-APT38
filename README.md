@@ -613,3 +613,5 @@ https://cyware.com/news/lazarus-apt-group-linked-to-new-dacls-malware-that-targe
 https://www.globalsecuritymag.com/Lazarus-enhances-capabilities-in,20200108,94395.html
 
 https://www.securityweek.com/uscybercom-shares-more-north-korean-malware-samples
+
+https://www.us-cert.gov/ncas/current-activity/2020/02/14/north-korean-malicious-cyber-activity
