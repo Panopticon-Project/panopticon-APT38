@@ -621,3 +621,5 @@ https://arstechnica.com/tech-policy/2020/02/us-government-exposes-malware-used-i
 https://securelist.com/operation-applejeus-sequel/95596/?utm_source=newsletter&utm_medium=Email&utm_campaign=sl%20weekly%20digest
 
 https://www.securityweek.com/north-korean-hackers-continue-target-cryptocurrency-exchanges
+
+https://www.wired.com/story/malware-reuse-north-korea-lazarus-group/
