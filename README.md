@@ -623,3 +623,5 @@ https://securelist.com/operation-applejeus-sequel/95596/?utm_source=newsletter&u
 https://www.securityweek.com/north-korean-hackers-continue-target-cryptocurrency-exchanges
 
 https://www.wired.com/story/malware-reuse-north-korea-lazarus-group/
+
+https://metaswan.github.io/posts/Malware-Lazarus-group's-Brambul-worm-of-the-former-Wannacry-2
