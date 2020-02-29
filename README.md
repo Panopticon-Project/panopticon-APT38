@@ -625,3 +625,5 @@ https://www.securityweek.com/north-korean-hackers-continue-target-cryptocurrency
 https://www.wired.com/story/malware-reuse-north-korea-lazarus-group/
 
 https://metaswan.github.io/posts/Malware-Lazarus-group's-Brambul-worm-of-the-former-Wannacry-2
+
+https://arstechnica.com/information-technology/2020/02/why-write-your-own-mac-malware-when-you-can-rip-off-a-competitors-a-how-to/
