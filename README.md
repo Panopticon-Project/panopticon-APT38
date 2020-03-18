@@ -631,3 +631,5 @@ https://arstechnica.com/information-technology/2020/02/why-write-your-own-mac-ma
 https://labs.sentinelone.com/dprk-hidden-cobra-update-north-korean-malicious-cyber-activity/
 
 https://www.cyberscoop.com/north-korea-sanctions-lazarus-group-treasury-department/
+
+https://blog.lexfo.fr/ressources/Lexfo-WhitePaper-The_Lazarus_Constellation.pdf
