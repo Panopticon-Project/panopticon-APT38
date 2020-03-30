@@ -635,3 +635,5 @@ https://www.cyberscoop.com/north-korea-sanctions-lazarus-group-treasury-departme
 https://blog.lexfo.fr/ressources/Lexfo-WhitePaper-The_Lazarus_Constellation.pdf
 
 https://labs.sentinelone.com/dprk-hidden-cobra-update-north-korean-malicious-cyber-activity/
+
+https://marcoramilli.com/2019/11/04/is-lazarus-apt38-targeting-critical-infrastructures/
