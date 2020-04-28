@@ -641,3 +641,5 @@ https://marcoramilli.com/2019/11/04/is-lazarus-apt38-targeting-critical-infrastr
 https://global.ahnlab.com/global/upload/download/asecreport/ASEC%20REPORT_vol.98_ENG.pdf
 
 https://www.us-cert.gov/sites/default/files/2020-04/DPRK_Cyber_Threat_Advisory_04152020_S508C.pdf
+
+https://blog.telsy.com/lazarus-gate/
