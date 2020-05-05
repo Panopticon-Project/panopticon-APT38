@@ -645,3 +645,5 @@ https://www.us-cert.gov/sites/default/files/2020-04/DPRK_Cyber_Threat_Advisory_0
 https://blog.telsy.com/lazarus-gate/
 
 https://securelist.com/apt-trends-report-q1-2020/96826/
+
+https://www.securityweek.com/north-korean-threat-actors-acted-hackers-hire-says-us-government
