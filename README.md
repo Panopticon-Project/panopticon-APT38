@@ -647,3 +647,5 @@ https://blog.telsy.com/lazarus-gate/
 https://securelist.com/apt-trends-report-q1-2020/96826/
 
 https://www.securityweek.com/north-korean-threat-actors-acted-hackers-hire-says-us-government
+
+https://www.us-cert.gov/ncas/alerts/aa20-106a
