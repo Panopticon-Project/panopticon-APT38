@@ -661,3 +661,5 @@ https://objective-see.com/blog/blog_0x49.html
 https://portswigger.net/daily-swig/crypto-exchange-admins-targeted-with-malware-ridden-trading-app
 
 https://www.securityweek.com/researchers-analyze-north-korea-linked-nukesped-rat
+
+https://arstechnica.com/information-technology/2019/10/indian-nuke-plants-network-reportedly-hit-by-malware-tied-to-n-korea/
