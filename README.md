@@ -663,3 +663,5 @@ https://portswigger.net/daily-swig/crypto-exchange-admins-targeted-with-malware-
 https://www.securityweek.com/researchers-analyze-north-korea-linked-nukesped-rat
 
 https://arstechnica.com/information-technology/2019/10/indian-nuke-plants-network-reportedly-hit-by-malware-tied-to-n-korea/
+
+https://blog.malwarebytes.com/threat-analysis/2020/05/new-mac-variant-of-lazarus-dacls-rat-distributed-via-trojanized-2fa-app/
