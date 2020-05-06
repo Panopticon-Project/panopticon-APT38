@@ -657,3 +657,5 @@ https://threatpost.com/lazarus-collaborates-trickbots-anchor-project/151000/
 https://securityaffairs.co/wordpress/95008/apt/trickbot-group-lazarus-link.html
 
 https://objective-see.com/blog/blog_0x49.html
+
+https://portswigger.net/daily-swig/crypto-exchange-admins-targeted-with-malware-ridden-trading-app
