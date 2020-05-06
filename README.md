@@ -655,3 +655,5 @@ https://www.cisomag.com/lazarus-hacking-group-strikes-again-with-fileless-malwar
 https://threatpost.com/lazarus-collaborates-trickbots-anchor-project/151000/
 
 https://securityaffairs.co/wordpress/95008/apt/trickbot-group-lazarus-link.html
+
+https://objective-see.com/blog/blog_0x49.html
