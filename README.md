@@ -653,3 +653,5 @@ https://www.us-cert.gov/ncas/alerts/aa20-106a
 https://www.cisomag.com/lazarus-hacking-group-strikes-again-with-fileless-malware/
 
 https://threatpost.com/lazarus-collaborates-trickbots-anchor-project/151000/
+
+https://securityaffairs.co/wordpress/95008/apt/trickbot-group-lazarus-link.html
