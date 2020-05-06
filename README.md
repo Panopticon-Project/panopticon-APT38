@@ -659,3 +659,5 @@ https://securityaffairs.co/wordpress/95008/apt/trickbot-group-lazarus-link.html
 https://objective-see.com/blog/blog_0x49.html
 
 https://portswigger.net/daily-swig/crypto-exchange-admins-targeted-with-malware-ridden-trading-app
+
+https://www.securityweek.com/researchers-analyze-north-korea-linked-nukesped-rat
