@@ -671,3 +671,5 @@ https://www.securityweek.com/us-cyber-command-shares-more-north-korean-malware-v
 https://medium.com/@dinu135dk/lazarus-group-leverages-covid-themed-hwp-document-dde6b80d51eb - application shimming??
 
 https://twitter.com/RedDrip7/status/1245557988401623040
+
+https://www.cyberscoop.com/north-korea-hacking-hidden-cobra-dhs-fbi/
