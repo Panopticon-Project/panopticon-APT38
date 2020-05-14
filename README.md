@@ -669,3 +669,5 @@ https://blog.malwarebytes.com/threat-analysis/2020/05/new-mac-variant-of-lazarus
 https://www.securityweek.com/us-cyber-command-shares-more-north-korean-malware-variants
 
 https://medium.com/@dinu135dk/lazarus-group-leverages-covid-themed-hwp-document-dde6b80d51eb - application shimming??
+
+https://twitter.com/RedDrip7/status/1245557988401623040
