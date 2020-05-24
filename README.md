@@ -675,3 +675,5 @@ https://twitter.com/RedDrip7/status/1245557988401623040
 https://www.cyberscoop.com/north-korea-hacking-hidden-cobra-dhs-fbi/
 
 https://www.us-cert.gov/ncas/current-activity/2020/05/12/north-korean-malicious-cyber-activity
+
+https://blog.malwarelab.pl/posts/lazarus_validator/
