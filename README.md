@@ -677,3 +677,5 @@ https://www.cyberscoop.com/north-korea-hacking-hidden-cobra-dhs-fbi/
 https://www.us-cert.gov/ncas/current-activity/2020/05/12/north-korean-malicious-cyber-activity
 
 https://blog.malwarelab.pl/posts/lazarus_validator/
+
+https://www.securityweek.com/aerospace-military-hit-ongoing-espionage-campaign-linked-north-korea
