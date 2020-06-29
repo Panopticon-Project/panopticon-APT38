@@ -679,3 +679,5 @@ https://www.us-cert.gov/ncas/current-activity/2020/05/12/north-korean-malicious-
 https://blog.malwarelab.pl/posts/lazarus_validator/
 
 https://www.securityweek.com/aerospace-military-hit-ongoing-espionage-campaign-linked-north-korea
+
+https://www.welivesecurity.com/2020/06/17/operation-interception-aerospace-military-companies-cyberspies/ ??
