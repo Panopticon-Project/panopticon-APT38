@@ -683,3 +683,5 @@ https://www.securityweek.com/aerospace-military-hit-ongoing-espionage-campaign-l
 https://www.welivesecurity.com/2020/06/17/operation-interception-aerospace-military-companies-cyberspies/ ??
 
 https://blog.reversinglabs.com/blog/hidden-cobra
+
+https://www.securityweek.com/magecart-attacks-claires-and-other-us-stores-linked-north-korea
