@@ -685,3 +685,7 @@ https://www.welivesecurity.com/2020/06/17/operation-interception-aerospace-milit
 https://blog.reversinglabs.com/blog/hidden-cobra
 
 https://www.securityweek.com/magecart-attacks-claires-and-other-us-stores-linked-north-korea
+
+https://www.scmagazine.com/home/security-news/hidden-cobra-built-global-exfiltration-network-for-magecart-skimming-scheme/
+
+https://sansec.io/research/north-korea-magecart
