@@ -691,3 +691,5 @@ https://www.scmagazine.com/home/security-news/hidden-cobra-built-global-exfiltra
 https://sansec.io/research/north-korea-magecart
 
 https://www.infosecurity-magazine.com/news/north-korean-hackers-sniffing-us/
+
+https://www.technadu.com/operation-north-star-targeting-american-aerospace-defense-industry/162553/
