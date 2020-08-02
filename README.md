@@ -701,3 +701,5 @@ https://www.consilium.europa.eu/en/press/press-releases/2020/07/30/eu-imposes-th
 https://threatpost.com/lazarus-group-advanced-malware-framework/157636/ 
 
 https://www.sentinelone.com/blog/four-distinct-families-of-lazarus-malware-target-apples-macos-platform/
+
+https://securelist.com/lazarus-on-the-hunt-for-big-game/97757/
