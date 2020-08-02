@@ -693,3 +693,5 @@ https://sansec.io/research/north-korea-magecart
 https://www.infosecurity-magazine.com/news/north-korean-hackers-sniffing-us/
 
 https://www.technadu.com/operation-north-star-targeting-american-aerospace-defense-industry/162553/
+
+https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020D1127&from=EN
