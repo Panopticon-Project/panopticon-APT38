@@ -689,3 +689,5 @@ https://www.securityweek.com/magecart-attacks-claires-and-other-us-stores-linked
 https://www.scmagazine.com/home/security-news/hidden-cobra-built-global-exfiltration-network-for-magecart-skimming-scheme/
 
 https://sansec.io/research/north-korea-magecart
+
+https://www.infosecurity-magazine.com/news/north-korean-hackers-sniffing-us/
