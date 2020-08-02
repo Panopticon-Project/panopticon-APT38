@@ -699,3 +699,5 @@ https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020D1127&from=E
 https://www.consilium.europa.eu/en/press/press-releases/2020/07/30/eu-imposes-the-first-ever-sanctions-against-cyber-attacks/
 
 https://threatpost.com/lazarus-group-advanced-malware-framework/157636/ 
+
+https://www.sentinelone.com/blog/four-distinct-families-of-lazarus-malware-target-apples-macos-platform/
