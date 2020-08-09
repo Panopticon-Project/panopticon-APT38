@@ -703,3 +703,5 @@ https://threatpost.com/lazarus-group-advanced-malware-framework/157636/
 https://www.sentinelone.com/blog/four-distinct-families-of-lazarus-malware-target-apples-macos-platform/
 
 https://securelist.com/lazarus-on-the-hunt-for-big-game/97757/
+
+https://www.scmagazine.com/home/security-news/government-and-defense/operation-north-star-attackers-appear-to-be-hidden-cobra/
