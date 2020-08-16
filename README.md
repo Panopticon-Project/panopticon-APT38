@@ -713,3 +713,5 @@ https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-
 https://news.yahoo.com/israel-says-thwarted-foreign-cyber-160853524.html
 
 https://www.cyberscoop.com/north-korea-hackers-lazarus-group-israel-defense/
+
+https://www.clearskysec.com/operation-dream-job/
