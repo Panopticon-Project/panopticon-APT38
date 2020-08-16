@@ -705,3 +705,7 @@ https://www.sentinelone.com/blog/four-distinct-families-of-lazarus-malware-targe
 https://securelist.com/lazarus-on-the-hunt-for-big-game/97757/
 
 https://www.scmagazine.com/home/security-news/government-and-defense/operation-north-star-attackers-appear-to-be-hidden-cobra/
+
+https://www.zdnet.com/article/us-defense-and-aerospace-sectors-targeted-in-new-wave-of-north-korean-attacks/
+
+https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-offer-thats-too-good-to-be-true/#%20Techniques,%20Tactics%20&%20Procedures%20(TTPs)
