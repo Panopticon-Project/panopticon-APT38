@@ -711,3 +711,5 @@ https://www.zdnet.com/article/us-defense-and-aerospace-sectors-targeted-in-new-w
 https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-offer-thats-too-good-to-be-true/#%20Techniques,%20Tactics%20&%20Procedures%20(TTPs)
 
 https://news.yahoo.com/israel-says-thwarted-foreign-cyber-160853524.html
+
+https://www.cyberscoop.com/north-korea-hackers-lazarus-group-israel-defense/
