@@ -719,3 +719,5 @@ https://www.clearskysec.com/operation-dream-job/
 https://www.kaspersky.com/blog/lazarus-vhd-ransomware/36559/
 
 https://labs.f-secure.com/assets/BlogFiles/f-secureLABS-tlp-white-lazarus-threat-intel-report2.pdf
+
+https://cyware.com/news/north-korean-hackers-using-blindingcan-malware-strain-dhs-sounds-alert-83986e9d
