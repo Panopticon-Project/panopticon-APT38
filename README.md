@@ -725,3 +725,5 @@ https://cyware.com/news/north-korean-hackers-using-blindingcan-malware-strain-dh
 https://blog.chainalysis.com/reports/lazarus-group-north-korea-doj-complaint-august-2020
 
 https://www.sentinelone.com/blog/the-blindingcan-rat-and-malicious-north-korean-activity/
+
+https://blogs.jpcert.or.jp/en/2020/08/Lazarus-malware.html
