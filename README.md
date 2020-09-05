@@ -727,3 +727,5 @@ https://blog.chainalysis.com/reports/lazarus-group-north-korea-doj-complaint-aug
 https://www.sentinelone.com/blog/the-blindingcan-rat-and-malicious-north-korean-activity/
 
 https://blogs.jpcert.or.jp/en/2020/08/Lazarus-malware.html
+
+https://www.zdnet.com/article/lazarus-group-strikes-cryptocurrency-firm-through-linkedin-job-adverts/
