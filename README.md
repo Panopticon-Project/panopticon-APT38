@@ -731,3 +731,5 @@ https://blogs.jpcert.or.jp/en/2020/08/Lazarus-malware.html
 https://www.zdnet.com/article/lazarus-group-strikes-cryptocurrency-firm-through-linkedin-job-adverts/
 
 https://www.bankinfosecurity.com/lazarus-group-uses-spear-phishing-to-steal-cryptocurrency-a-14898
+
+https://www.scmagazine.com/home/security-news/new-report-details-how-north-korean-and-russian-cybercriminals-are-cooperating/
