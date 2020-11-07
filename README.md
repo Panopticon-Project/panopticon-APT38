@@ -733,3 +733,5 @@ https://www.zdnet.com/article/lazarus-group-strikes-cryptocurrency-firm-through-
 https://www.bankinfosecurity.com/lazarus-group-uses-spear-phishing-to-steal-cryptocurrency-a-14898
 
 https://www.scmagazine.com/home/security-news/new-report-details-how-north-korean-and-russian-cybercriminals-are-cooperating/
+
+https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/98440/
