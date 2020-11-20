@@ -735,3 +735,5 @@ https://www.bankinfosecurity.com/lazarus-group-uses-spear-phishing-to-steal-cryp
 https://www.scmagazine.com/home/security-news/new-report-details-how-north-korean-and-russian-cybercriminals-are-cooperating/
 
 https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/98440/
+
+https://www.welivesecurity.com/2020/11/16/lazarus-supply-chain-attack-south-korea/
