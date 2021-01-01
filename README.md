@@ -741,3 +741,5 @@ https://www.welivesecurity.com/2020/11/16/lazarus-supply-chain-attack-south-kore
 https://threatpost.com/russia-north-korea-attacking-covid-19-vaccine-makers/161205/
 
 https://securityaffairs.co/wordpress/112621/apt/lazarus-apt-targets-covid-19.html
+
+https://blogs.jpcert.or.jp/en/2020/09/BLINDINGCAN.html
