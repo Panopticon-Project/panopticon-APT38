@@ -747,3 +747,5 @@ https://blogs.jpcert.or.jp/en/2020/09/BLINDINGCAN.html
 https://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-detection-logic
 
 https://www.cyberscoop.com/north-korean-hacking-lazarus-job-applicants/ - something in unattributed as well
+
+https://www.securityweek.com/lazarus-group-targets-south-korea-supply-chain-attack
