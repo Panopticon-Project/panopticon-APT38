@@ -743,3 +743,5 @@ https://threatpost.com/russia-north-korea-attacking-covid-19-vaccine-makers/1612
 https://securityaffairs.co/wordpress/112621/apt/lazarus-apt-targets-covid-19.html
 
 https://blogs.jpcert.or.jp/en/2020/09/BLINDINGCAN.html
+
+https://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-detection-logic
