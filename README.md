@@ -745,3 +745,5 @@ https://securityaffairs.co/wordpress/112621/apt/lazarus-apt-targets-covid-19.htm
 https://blogs.jpcert.or.jp/en/2020/09/BLINDINGCAN.html
 
 https://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-detection-logic
+
+https://www.cyberscoop.com/north-korean-hacking-lazarus-job-applicants/ - something in unattributed as well
