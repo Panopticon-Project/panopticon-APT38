@@ -749,3 +749,5 @@ https://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-dete
 https://www.cyberscoop.com/north-korean-hacking-lazarus-job-applicants/ - something in unattributed as well
 
 https://www.securityweek.com/lazarus-group-targets-south-korea-supply-chain-attack
+
+https://www.securityweek.com/us-details-north-korean-malware-used-attacks-defense-organizations
