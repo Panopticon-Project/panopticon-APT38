@@ -751,3 +751,5 @@ https://www.cyberscoop.com/north-korean-hacking-lazarus-job-applicants/ - someth
 https://www.securityweek.com/lazarus-group-targets-south-korea-supply-chain-attack
 
 https://www.securityweek.com/us-details-north-korean-malware-used-attacks-defense-organizations
+
+https://medium.com/walmartglobaltech/anchor-and-lazarus-together-again-24744e516607
