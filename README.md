@@ -753,3 +753,5 @@ https://www.securityweek.com/lazarus-group-targets-south-korea-supply-chain-atta
 https://www.securityweek.com/us-details-north-korean-malware-used-attacks-defense-organizations
 
 https://medium.com/walmartglobaltech/anchor-and-lazarus-together-again-24744e516607
+
+https://www.cyberscoop.com/google-north-korea-fake-security-blog/
