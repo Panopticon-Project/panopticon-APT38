@@ -755,3 +755,5 @@ https://www.securityweek.com/us-details-north-korean-malware-used-attacks-defens
 https://medium.com/walmartglobaltech/anchor-and-lazarus-together-again-24744e516607
 
 https://www.cyberscoop.com/google-north-korea-fake-security-blog/
+
+https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/ - tentatively attributed by others
