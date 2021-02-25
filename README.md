@@ -767,3 +767,5 @@ https://www.securityweek.com/us-charges-north-korean-hackers-over-13-billion-ban
 https://us-cert.cisa.gov/ncas/analysis-reports/ar21-048g
 
 https://www.infosecurity-magazine.com/news/lazarus-group-indicted-north/
+
+https://securityaffairs.co/wordpress/115013/apt/lazarus-apt-threatneedle.html
