@@ -765,3 +765,5 @@ https://enki.co.kr/blog/2021/02/04/ie_0day.html
 https://www.securityweek.com/us-charges-north-korean-hackers-over-13-billion-bank-heists
 
 https://us-cert.cisa.gov/ncas/analysis-reports/ar21-048g
+
+https://www.infosecurity-magazine.com/news/lazarus-group-indicted-north/
