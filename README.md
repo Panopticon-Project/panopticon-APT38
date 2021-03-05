@@ -769,3 +769,5 @@ https://us-cert.cisa.gov/ncas/analysis-reports/ar21-048g
 https://www.infosecurity-magazine.com/news/lazarus-group-indicted-north/
 
 https://securityaffairs.co/wordpress/115013/apt/lazarus-apt-threatneedle.html
+
+https://securelist.com/lazarus-threatneedle/100803/
