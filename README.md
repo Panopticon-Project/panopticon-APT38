@@ -771,3 +771,5 @@ https://www.infosecurity-magazine.com/news/lazarus-group-indicted-north/
 https://securityaffairs.co/wordpress/115013/apt/lazarus-apt-threatneedle.html
 
 https://securelist.com/lazarus-threatneedle/100803/
+
+https://www.bankinfosecurity.com/lazarus-group-tied-to-tflower-ransomware-a-16100
