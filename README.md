@@ -773,3 +773,11 @@ https://securityaffairs.co/wordpress/115013/apt/lazarus-apt-threatneedle.html
 https://securelist.com/lazarus-threatneedle/100803/
 
 https://www.bankinfosecurity.com/lazarus-group-tied-to-tflower-ransomware-a-16100
+
+https://us-cert.cisa.gov/ncas/analysis-reports/ar21-048d
+
+https://us-cert.cisa.gov/ncas/analysis-reports/ar21-048e
+
+https://us-cert.cisa.gov/ncas/analysis-reports/ar21-048c
+
+https://us-cert.cisa.gov/ncas/analysis-reports/ar21-048b
