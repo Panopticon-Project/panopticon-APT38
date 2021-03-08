@@ -781,3 +781,9 @@ https://us-cert.cisa.gov/ncas/analysis-reports/ar21-048e
 https://us-cert.cisa.gov/ncas/analysis-reports/ar21-048c
 
 https://us-cert.cisa.gov/ncas/analysis-reports/ar21-048b
+
+https://us-cert.cisa.gov/ncas/analysis-reports/ar21-048a
+
+https://us-cert.cisa.gov/ncas/alerts/aa21-048a
+
+https://us-cert.cisa.gov/ncas/analysis-reports/ar21-048f
