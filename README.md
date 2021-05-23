@@ -795,3 +795,5 @@ https://www.welivesecurity.com/2021/04/08/are-you-afreight-dark-watch-out-vyveva
 https://blog.malwarebytes.com/malwarebytes-news/2021/04/lazarus-apt-conceals-malicious-code-within-bmp-file-to-drop-its-rat/
 
 https://www.group-ib.com/blog/btc_changer
+
+https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/lazarus-recruitment/
