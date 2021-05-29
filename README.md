@@ -797,3 +797,5 @@ https://blog.malwarebytes.com/malwarebytes-news/2021/04/lazarus-apt-conceals-mal
 https://www.group-ib.com/blog/btc_changer
 
 https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/lazarus-recruitment/
+
+https://thehackernews.com/2021/05/researchers-link-cryptocore-attacks-on.html
