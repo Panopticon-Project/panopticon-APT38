@@ -799,3 +799,5 @@ https://www.group-ib.com/blog/btc_changer
 https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/lazarus-recruitment/
 
 https://thehackernews.com/2021/05/researchers-link-cryptocore-attacks-on.html
+
+https://threatpost.com/lazarus-engineers-malicious-docs/167647/
