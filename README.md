@@ -801,3 +801,5 @@ https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/lazarus-re
 https://thehackernews.com/2021/05/researchers-link-cryptocore-attacks-on.html
 
 https://threatpost.com/lazarus-engineers-malicious-docs/167647/
+
+https://www.netskope.com/blog/not-laughing-malicious-office-documents-using-lolbins
