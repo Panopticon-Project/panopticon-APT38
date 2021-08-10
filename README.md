@@ -805,3 +805,5 @@ https://threatpost.com/lazarus-engineers-malicious-docs/167647/
 https://www.netskope.com/blog/not-laughing-malicious-office-documents-using-lolbins
 
 https://cybersecurity.att.com/blogs/labs-research/lazarus-campaign-ttps-and-evolution
+
+https://blog.bushidotoken.net/2021/08/the-lazarus-heist-where-are-they-now.html
