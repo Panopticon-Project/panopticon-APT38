@@ -807,3 +807,5 @@ https://www.netskope.com/blog/not-laughing-malicious-office-documents-using-lolb
 https://cybersecurity.att.com/blogs/labs-research/lazarus-campaign-ttps-and-evolution
 
 https://blog.bushidotoken.net/2021/08/the-lazarus-heist-where-are-they-now.html
+
+https://lifars.com/2021/08/lifars-alert-flashback-and-update-north-korean-trojan-keymarble/
