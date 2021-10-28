@@ -809,3 +809,5 @@ https://cybersecurity.att.com/blogs/labs-research/lazarus-campaign-ttps-and-evol
 https://blog.bushidotoken.net/2021/08/the-lazarus-heist-where-are-they-now.html
 
 https://lifars.com/2021/08/lifars-alert-flashback-and-update-north-korean-trojan-keymarble/
+
+https://www.bleepingcomputer.com/news/security/north-korean-state-hackers-start-targeting-the-it-supply-chain/
