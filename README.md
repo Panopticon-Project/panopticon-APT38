@@ -813,3 +813,5 @@ https://lifars.com/2021/08/lifars-alert-flashback-and-update-north-korean-trojan
 https://www.bleepingcomputer.com/news/security/north-korean-state-hackers-start-targeting-the-it-supply-chain/
 
 https://www.bleepingcomputer.com/news/security/lazarus-hackers-target-researchers-with-trojanized-ida-pro/
+
+https://bzx.network/blog/prelminary-post-mortem - part of SnatchCrypto
