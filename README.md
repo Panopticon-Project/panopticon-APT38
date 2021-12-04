@@ -815,3 +815,5 @@ https://www.bleepingcomputer.com/news/security/north-korean-state-hackers-start-
 https://www.bleepingcomputer.com/news/security/lazarus-hackers-target-researchers-with-trojanized-ida-pro/
 
 https://bzx.network/blog/prelminary-post-mortem - part of SnatchCrypto
+
+https://lifars.com/2021/11/lazarus-hacking-group-set-it-supply-chain-attacks-in-motion/
