@@ -819,3 +819,5 @@ https://bzx.network/blog/prelminary-post-mortem - part of SnatchCrypto
 https://lifars.com/2021/11/lazarus-hacking-group-set-it-supply-chain-attacks-in-motion/
 
 https://therecord.media/north-korean-hackers-posed-as-samsung-recruiters-to-target-security-researchers/
+
+https://threatpost.com/pseudomanuscrypt-mass-spyware-campaign/177097/
