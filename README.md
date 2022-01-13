@@ -821,3 +821,5 @@ https://lifars.com/2021/11/lazarus-hacking-group-set-it-supply-chain-attacks-in-
 https://therecord.media/north-korean-hackers-posed-as-samsung-recruiters-to-target-security-researchers/
 
 https://threatpost.com/pseudomanuscrypt-mass-spyware-campaign/177097/
+
+https://www.zdnet.com/article/fingers-point-to-lazarus-cobalt-fin7-as-key-hacking-groups-focused-on-finance-industry/
