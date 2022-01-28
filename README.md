@@ -823,3 +823,5 @@ https://therecord.media/north-korean-hackers-posed-as-samsung-recruiters-to-targ
 https://threatpost.com/pseudomanuscrypt-mass-spyware-campaign/177097/
 
 https://www.zdnet.com/article/fingers-point-to-lazarus-cobalt-fin7-as-key-hacking-groups-focused-on-finance-industry/
+
+https://blog.malwarebytes.com/threat-intelligence/2022/01/north-koreas-lazarus-apt-leverages-windows-update-client-github-in-latest-campaign/
