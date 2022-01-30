@@ -825,3 +825,7 @@ https://threatpost.com/pseudomanuscrypt-mass-spyware-campaign/177097/
 https://www.zdnet.com/article/fingers-point-to-lazarus-cobalt-fin7-as-key-hacking-groups-focused-on-finance-industry/
 
 https://blog.malwarebytes.com/threat-intelligence/2022/01/north-koreas-lazarus-apt-leverages-windows-update-client-github-in-latest-campaign/
+
+https://www.securityweek.com/five-threat-groups-target-industrial-systems-dragos
+
+https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america
