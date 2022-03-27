@@ -829,3 +829,5 @@ https://blog.malwarebytes.com/threat-intelligence/2022/01/north-koreas-lazarus-a
 https://www.securityweek.com/five-threat-groups-target-industrial-systems-dragos
 
 https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america
+
+https://therecord.media/north-korean-hackers-target-employees-of-news-outlets-software-vendors-and-more-through-chrome-vulnerability
