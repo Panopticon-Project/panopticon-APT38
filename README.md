@@ -831,3 +831,7 @@ https://www.securityweek.com/five-threat-groups-target-industrial-systems-dragos
 https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america
 
 https://therecord.media/north-korean-hackers-target-employees-of-news-outlets-software-vendors-and-more-through-chrome-vulnerability
+
+https://therecord.media/chemical-sector-targeted-by-north-korea-linked-hacking-group-researchers-say/
+
+https://therecord.media/us-agency-attributes-540-million-ronin-hack-to-north-korean-apt-group/
