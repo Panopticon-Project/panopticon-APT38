@@ -835,3 +835,5 @@ https://therecord.media/north-korean-hackers-target-employees-of-news-outlets-so
 https://therecord.media/chemical-sector-targeted-by-north-korea-linked-hacking-group-researchers-say/
 
 https://therecord.media/us-agency-attributes-540-million-ronin-hack-to-north-korean-apt-group/
+
+https://www.securityweek.com/north-korea-apt-lazarus-targeting-chemical-sector
