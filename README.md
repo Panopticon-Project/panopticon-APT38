@@ -837,3 +837,5 @@ https://therecord.media/chemical-sector-targeted-by-north-korea-linked-hacking-g
 https://therecord.media/us-agency-attributes-540-million-ronin-hack-to-north-korean-apt-group/
 
 https://www.securityweek.com/north-korea-apt-lazarus-targeting-chemical-sector
+
+https://cryptoslate.com/us-claims-north-koreas-lazarus-group-responsible-for-axie-infinity-hack/
