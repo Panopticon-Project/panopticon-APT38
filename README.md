@@ -839,3 +839,5 @@ https://therecord.media/us-agency-attributes-540-million-ronin-hack-to-north-kor
 https://www.securityweek.com/north-korea-apt-lazarus-targeting-chemical-sector
 
 https://cryptoslate.com/us-claims-north-koreas-lazarus-group-responsible-for-axie-infinity-hack/
+
+https://therecord.media/binance-freezes-stolen-axie-infinity-crypto-after-north-korean-hackers-move-funds/
