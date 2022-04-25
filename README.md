@@ -841,3 +841,5 @@ https://www.securityweek.com/north-korea-apt-lazarus-targeting-chemical-sector
 https://cryptoslate.com/us-claims-north-koreas-lazarus-group-responsible-for-axie-infinity-hack/
 
 https://therecord.media/binance-freezes-stolen-axie-infinity-crypto-after-north-korean-hackers-move-funds/
+
+https://www.hackread.com/lazarus-apt-tradertraitor-malware-blockchain-cisa/
