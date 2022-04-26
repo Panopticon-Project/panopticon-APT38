@@ -843,3 +843,5 @@ https://cryptoslate.com/us-claims-north-koreas-lazarus-group-responsible-for-axi
 https://therecord.media/binance-freezes-stolen-axie-infinity-crypto-after-north-korean-hackers-move-funds/
 
 https://www.hackread.com/lazarus-apt-tradertraitor-malware-blockchain-cisa/
+
+https://stairwell.com/news/threat-research-the-ink-stained-trail-of-goldbackdoor/
