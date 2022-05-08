@@ -847,3 +847,5 @@ https://www.hackread.com/lazarus-apt-tradertraitor-malware-blockchain-cisa/
 https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/the-hermit-kingdoms-ransomware-play.html - I've noted an issue with the attribution in the nomenclature repo
 
 https://therecord.media/researchers-tie-ransomware-families-to-north-korean-cyber-army/
+
+https://securityaffairs.co/wordpress/131015/cyber-crime/us-gov-sanctioned-blender-mixer.html
