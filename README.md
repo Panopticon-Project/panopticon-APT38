@@ -849,3 +849,5 @@ https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/the-hermit-king
 https://therecord.media/researchers-tie-ransomware-families-to-north-korean-cyber-army/
 
 https://securityaffairs.co/wordpress/131015/cyber-crime/us-gov-sanctioned-blender-mixer.html
+
+https://twitter.com/ESETresearch/status/1524731829139476480
