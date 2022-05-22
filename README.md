@@ -853,3 +853,5 @@ https://securityaffairs.co/wordpress/131015/cyber-crime/us-gov-sanctioned-blende
 https://twitter.com/ESETresearch/status/1524731829139476480
 
 https://twitter.com/ESETresearch/status/1526183746524876802
+
+https://asec.ahnlab.com/en/34461/
