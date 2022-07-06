@@ -855,3 +855,7 @@ https://twitter.com/ESETresearch/status/1524731829139476480
 https://twitter.com/ESETresearch/status/1526183746524876802
 
 https://asec.ahnlab.com/en/34461/
+
+https://blogs.jpcert.or.jp/en/2021/03/Lazarus_malware3.html?utm_source=substack&utm_medium=email
+
+https://blogs.jpcert.or.jp/en/2022/07/vsingle.html?utm_source=substack&utm_medium=email
