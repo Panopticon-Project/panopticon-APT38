@@ -859,3 +859,7 @@ https://asec.ahnlab.com/en/34461/
 https://blogs.jpcert.or.jp/en/2021/03/Lazarus_malware3.html?utm_source=substack&utm_medium=email
 
 https://blogs.jpcert.or.jp/en/2022/07/vsingle.html?utm_source=substack&utm_medium=email
+
+https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game
+
+https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-offer-thats-too-good-to-be-true
