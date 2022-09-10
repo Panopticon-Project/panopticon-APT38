@@ -867,3 +867,5 @@ https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-
 https://blogs.jpcert.or.jp/en/2022/07/yamabot.html
 
 https://blog.talosintelligence.com/2022/09/lazarus-three-rats.html
+
+https://blog.talosintelligence.com/2022/09/lazarus-magicrat.html
