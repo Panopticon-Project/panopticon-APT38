@@ -869,3 +869,5 @@ https://blogs.jpcert.or.jp/en/2022/07/yamabot.html
 https://blog.talosintelligence.com/2022/09/lazarus-three-rats.html
 
 https://blog.talosintelligence.com/2022/09/lazarus-magicrat.html
+
+https://therecord.media/cisco-log4j-vulnerability-used-to-attack-energy-companies-in-canada-us-and-japan/
