@@ -873,3 +873,5 @@ https://blog.talosintelligence.com/2022/09/lazarus-magicrat.html
 https://therecord.media/cisco-log4j-vulnerability-used-to-attack-energy-companies-in-canada-us-and-japan/
 
 https://therecord.media/more-than-30-million-seized-from-north-korean-hackers-involved-in-axie-crypto-theft
+
+https://arstechnica.com/information-technology/2022/09/north-korean-threat-actors-are-weaponizing-all-kinds-of-open-source-apps/
