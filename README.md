@@ -877,3 +877,5 @@ https://therecord.media/more-than-30-million-seized-from-north-korean-hackers-in
 https://arstechnica.com/information-technology/2022/09/north-korean-threat-actors-are-weaponizing-all-kinds-of-open-source-apps/
 
 https://japannews.yomiuri.co.jp/politics/defense-security/20221015-64792/?utm_source=substack&utm_medium=email
+
+https://www.microsoft.com/en-us/security/blog/2022/11/10/microsoft-threat-intelligence-presented-at-cyberwarcon-2022/
