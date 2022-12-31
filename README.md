@@ -879,3 +879,5 @@ https://arstechnica.com/information-technology/2022/09/north-korean-threat-actor
 https://japannews.yomiuri.co.jp/politics/defense-security/20221015-64792/?utm_source=substack&utm_medium=email
 
 https://www.microsoft.com/en-us/security/blog/2022/11/10/microsoft-threat-intelligence-presented-at-cyberwarcon-2022/
+
+https://labs.k7computing.com/index.php/lazarus-apts-operation-interception-uses-signed-binary/
