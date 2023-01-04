@@ -883,3 +883,5 @@ https://www.microsoft.com/en-us/security/blog/2022/11/10/microsoft-threat-intell
 https://labs.k7computing.com/index.php/lazarus-apts-operation-interception-uses-signed-binary/
 
 https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA%3D%3D&mid=2247504563&idx=1&sn=ef573e211e083627c0f3cd252dbf95db&chksm=ea6625c4dd11acd241aa98aab7c7974ca55c529d4570d65bb714603fabf3b63747e8fe7847b1&scene=178&cur_album_id=1539799351089283075&utm_source=substack&utm_medium=email#rd
+
+https://explore.avertium.com/resource/an-in-depth-look-at-north-korean-threat-actor-zinc
