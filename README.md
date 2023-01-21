@@ -887,3 +887,7 @@ https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA%3D%3D&mid=2247504563&idx=1&sn=ef
 https://explore.avertium.com/resource/an-in-depth-look-at-north-korean-threat-actor-zinc
 
 https://mp-weixin-qq-com.translate.goog/s/W4hkBRJnwN1G32QCpaNNoA?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&utm_source=substack&utm_medium=email
+
+https://archive.md/3MmaZ
+
+https://medium.com/harmony-one/harmonys-horizon-bridge-hack-1e8d283b6d66
